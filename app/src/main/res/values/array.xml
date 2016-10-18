@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_temprature_array_values">
+        <item>@string/pref_temprature_metric</item>
+        <item>@string/pref_temprature_imperial</item>
+    </string-array>
+
+    <string-array name="pref_temprature_array_entries">
+        <item> @string/pref_temprature_metric</item>
+        <item> @string/pref_temprature_imperial</item>
+    </string-array>
+
+</resources>

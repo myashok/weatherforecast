@@ -1,0 +1,27 @@
+<resources>
+    <string name="action_map">Map Location</string>
+
+    <string name="app_name">WeatherForecast</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_settings">Settings</string>
+    <!-- Label for the location preference [CHAR LIMIT=30] -->
+    <string name="pref_location_label">Location</string>
+
+    <!-- Key name for storing location in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_location_key" translatable="false">location</string>
+
+    <!-- Default postal code for location preference [CHAR LIMIT=NONE] -->
+    <string name="pref_location_default" translatable="false">94043</string>
+
+    <string name="pref_temprature_summary">Select unit of temprature</string>
+
+    <string name="pref_temprature_label">Temprature</string>
+    <string name="pref_temprature_metric">Metric</string>
+    <string name="pref_temprature_imperial">Imperial</string>
+    <string name="pref_temprature_key" translatable="false">temprature</string>
+
+
+
+</resources>
