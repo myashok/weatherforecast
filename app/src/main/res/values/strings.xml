@@ -21,6 +21,7 @@
     <string name="pref_temprature_metric">Metric</string>
     <string name="pref_temprature_imperial">Imperial</string>
     <string name="pref_temprature_key" translatable="false">temprature</string>
+    <string name="action_share">Share</string>
 
 
 
